@@ -1,5 +1,5 @@
 #!/bin/bash
-# Autor: Alvaro Moreno Rufo
+# Autor: Alvaro Moreno Rufo 
 # Fecha: 03/02/2024
 
 clear
